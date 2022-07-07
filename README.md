@@ -35,4 +35,4 @@ The scale of Multi-view-Market1501 and Multi-view-duke  as shown:
 
 We Visualize the subset of MV-Market-1501
 
-![image](https://github.com/xxx/xxx/blob/master/xxx/xxx.png)
+![image](https://github.com/yuzaiyang123/MV-Reid/blob/main/fig-5.jpg)
