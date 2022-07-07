@@ -13,3 +13,26 @@ Thanks for your attention. In this repo, we provide the code and dataset for the
 **15 Nov 2022.** Open source the complete multi-view-market1501. 
 
 Another dataset multi-view-duke and MV-Reid source code will be open source after this paper is accepted.
+
+
+
+# Dataset introduction
+
+Multi-view-Market1501 and Multi-view-duke are derived from Market1501 and occluded-duke.  A reconstruct algorithm SMPL and a rendering engine blender are adopted to generate multi-view dataset from input images in this work. Exactly, the original images of Market1501 and occluded-duke are firstly reconstruct to 3D model, and then rendering to 12 view images.
+
+The scale of Multi-view-Market1501 and Multi-view-duke  as shown:
+
+| Dataset        |              | #ID   | #3D model | #Multi-view image |
+| -------------- | ------------ | ----- | --------- | ----------------- |
+| MV-Market-1501 | Training Set | 751   | 129,36    | 155,232           |
+|                | Gallery      | 752   | 197,32    | 236,784           |
+|                | Query        | 750   | 3368      | 40,416            |
+| MV-duke        | Training Set | 702   | 15,618    | 187,146           |
+|                | Gallery      | 1,110 | 17,661    | 211,932           |
+|                | Query        | 519   | 2210      | 26,520            |
+
+
+
+We Visualize the subset of MV-Market-1501
+
+![image](https://github.com/xxx/xxx/blob/master/xxx/xxx.png)
