@@ -20,7 +20,7 @@ Thanks for your attention. In this repo, we provide the code and dataset for the
 
 # Dataset introduction
 
-A reconstruct algorithm SMP and a rendering engine blender are adopted to generate multi-view dataset from input images in this work. Exactly, we presents three large scale 3D multi-view person ReID datasets, Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duke, which are derived from Market1501, Dukemtmc and Occluded-duke, respectively. Our datasets provide new ways of thinking to resolve occluded person ReID.
+A reconstruct algorithm SMPL and a rendering engine blender are adopted to generate multi-view dataset from input images in this work. Exactly, we presents three large scale 3D multi-view person ReID datasets, Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duke, which are derived from Market1501, Dukemtmc and Occluded-duke, respectively. Our datasets provide new ways of thinking to resolve occluded person ReID.
 
 The scale of Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duke  as shown:
 
