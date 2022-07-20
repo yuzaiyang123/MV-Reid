@@ -27,14 +27,14 @@ The scale of Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duk
 | Dataset          |              | #ID   | #3D model | #Multi-view image |
 | ---------------- | ------------ | ----- | --------- | ----------------- |
 | MV-Market-1501   | Training     | 751   | 129,36    | 155,232           |
-| Gallery          |              | 752   | 197,32    | 236,784           |
-| Query            |              | 750   | 3368      | 40,416            |
+|           | Gallery              | 752   | 197,32    | 236,784           |
+|             | Query              | 750   | 3368      | 40,416            |
 | MV-duke          | Training Set | 702   | 15,618    | 187,146           |
-| Gallery          |              | 1,110 | 17,661    | 211,932           |
-| Query            |              | 519   | 2210      | 26,520            |
+|           | Gallery              | 1,110 | 17,661    | 211,932           |
+|             | Query              | 519   | 2210      | 26,520            |
 | MV-Occluded-duke | Training     | 702   | 15,618    | 187,146           |
-| Gallery          |              | 1,110 | 17,661    | 211,932           |
-| Query            |              | 519   | 2210      | 26,520            |
+|           | Gallery              | 1,110 | 17,661    | 211,932           |
+|             | Query              | 519   | 2210      | 26,520            |
 
 Note that because the Occluded-duke derived from the Dukemtmc, so the scale of Multi-view-duke is equal to Multi-view-Occluded-duke. 
 
