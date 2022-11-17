@@ -26,7 +26,7 @@ A reconstruct algorithm SMPL and a rendering engine blender are adopted to gener
 
 The scale of Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duke  as shown:
 
-** The data scale of the Multi-duke in the manuscript is wrong. At present, the manuscript is under review, so we cannot update the Table 1 in the manuscript. We firstly modify the error content in the table in github, and then we will update the Table 1 in the manuscript.**
+**The data scale of the Multi-duke in the manuscript is wrong. At present, the manuscript is under review, so we cannot update the Table 1 in the manuscript. We firstly modify the error content in the table in github, and then we will update the Table 1 in the manuscript.**
 
 
 | Dataset          |              | #ID   | #3D model | #Multi-view image |
