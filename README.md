@@ -31,9 +31,9 @@ The scale of Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duk
 | MV-Market-1501   | Training     | 751   | 129,36    | 155,232           |
 |           | Gallery              | 752   | 197,32    | 236,784           |
 |             | Query              | 750   | 3368      | 40,416            |
-| MV-duke          | Training Set | 702   | 15,618    | 187,146           |
+| MV-duke          | Training Set | 702   | 16,522    | 198,264           |
 |           | Gallery              | 1,110 | 17,661    | 211,932           |
-|             | Query              | 519   | 2210      | 26,520            |
+|             | Query              | 702   | 2228      | 26,736            |
 | MV-Occluded-duke | Training     | 702   | 15,618    | 187,146           |
 |           | Gallery              | 1,110 | 17,661    | 211,932           |
 |             | Query              | 519   | 2210      | 26,520            |
