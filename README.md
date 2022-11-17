@@ -38,7 +38,7 @@ The scale of Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duk
 |           | Gallery              | 1,110 | 17,661    | 211,932           |
 |             | Query              | 519   | 2210      | 26,520            |
 
-Note that because the Occluded-duke derived from the Dukemtmc, so the scale of Multi-view-duke is equal to Multi-view-Occluded-duke. 
+**[Done]**
 
 
 We Visualize the subset of MV-Market-1501
