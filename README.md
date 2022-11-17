@@ -10,9 +10,11 @@ Thanks for your attention. In this repo, we provide the code and dataset for the
 
 **15 Oct 2022.** Open source the query of multi-view-duke. [Google drive](https://drive.google.com/file/d/1iZgPoJ5dQKAcxjfKG2bvCSftoAbEoK3H/view?usp=sharing) **[Done]** 
 
-**15 Nov 2022.** Open source the query of multi-view-Occluded-duke. 
+**15 Nov 2022.** Open source the query of multi-view-Occluded-duke.  [Google drive](https://drive.google.com/file/d/1cF_ozpjsbaFEa9tku1Kf_cTgkRNAozdy/view?usp=share_link) **[Done]**
 
 **15 Feb 2023.** Open source the complete multi-view-market1501. 
+
+
 
  Multi-view-duke, Multi-view-Occluded-duke and MV-Reid source code will be open source after this paper is accepted.
 
