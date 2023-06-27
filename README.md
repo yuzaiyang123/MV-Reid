@@ -18,9 +18,9 @@ Thanks for your attention. In this repo, we provide the code and dataset for the
 
 # Dataset introduction
 
-A reconstruct algorithm SMPL and a rendering engine blender are adopted to generate multi-view dataset from input images in this work. Exactly, we presents three large scale 3D multi-view person ReID datasets, Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duke, which are derived from Market1501, Dukemtmc and Occluded-duke, respectively. Our datasets provide new ways of thinking to resolve occluded person ReID.
+A reconstruct algorithm SMPL and a rendering engine blender are adopted to generate multi-view dataset from input images in this work. Exactly, we present four large-scale 3D multi-view person ReID datasets.
 
-The scale of Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duke  as shown:
+The scale of Multi-view-Market1501, Multi-view-duke,  Multi-view-Occluded-duke and  Multi-view-Occluded-ReID  as shown:
 
 <!-- **The data scale of the Multi-duke in the manuscript is wrong. At present, the manuscript is under review, so we cannot update the Table 1 in the manuscript. We firstly modify the error content in the table in github, and then we will update the Table 1 in the manuscript.** -->
 
@@ -36,6 +36,9 @@ The scale of Multi-view-Market1501, Multi-view-duke and  Multi-view-Occluded-duk
 | MV-Occluded-duke | Training     | 702   | 15,618    | 187,146           |
 |           | Gallery              | 1,110 | 17,661    | 211,932           |
 |             | Query              | 519   | 2210      | 26,520            |
+| MV-Occluded-ReID | Training     | -   | -    | -           |
+|           | Gallery              | 200 | 200    | 12,000           |
+|             | Query              | 200 | 200    | 12,000           |
 
 
 
